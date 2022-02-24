@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "solution": "Solutions",
+    "home": "Home",
+    "about": "About",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "products": "Products",
+    "users": "Users",
+    "video": "Video",
+    "more": "More",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "lang": "Language",
+    "info": "Info",
+    "detail": "Detail"
+  },
+  "home": {
+    "hello": "Hello!"
+  },
+  "about": {
+    "example": "This is an About page.",
+    "modaltitle": "The Modal Tile",
+    "modalcontent": "Model Content"
+  },
+  "product": {
+    "name": "Name",
+    "email": "e-Mail",
+    "title": "Title",
+    "price": "Price",
+    "category": "Category",
+    "description": "Description"
+  },
+  "video": {
+    "subscribersCountText": "Subscribers",
+    "subscribeBtnText": "Subscribe",
+    "loadMoreBtnText": "Load More"
+  },
+  "modal": {
+    "open": "Open",
+    "close": "Close"
+  }
+}

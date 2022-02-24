@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "solution": "Çözümler",
+    "home": "Anasayfa",
+    "about": "Hakkımızda",
+    "pricing": "Fiyat",
+    "docs": "Dökümanlar",
+    "products": "Ürünler",
+    "users": "Kullanıcılar",
+    "video": "Vidyo",
+    "more": "Daha",
+    "signin": "Giriş Yap",
+    "signup": "Kayıt Ol",
+    "lang": "Dil",
+    "info": "Bilgi",
+    "detail": "Detay"
+  },
+  "home": {
+    "hello": "Selam!"
+  },
+  "about": {
+    "example": "Hakkımızda sayfası.",
+    "modaltitle": "Pencere Başlığı",
+    "modalcontent": "Pencere İçeriği"
+  },
+  "product": {
+    "name": "İsim",
+    "email": "e-Posta",
+    "title": "Başlık",
+    "price": "Fiyatı",
+    "category": "Kategori",
+    "description": "Açıklama"
+  },
+  "video": {
+    "subscribersCountText": "Abone",
+    "subscribeBtnText": "Abone ol",
+    "loadMoreBtnText": "Daha fazla"
+  },
+  "modal": {
+    "open": "Aç",
+    "close": "Kapat"
+  }
+}
