@@ -6,6 +6,7 @@
     "node": "14.17.3"
   },
   "scripts": {
+    "start": "vite start",
     "dev": "npm-run-all --parallel tailwind-watch vite-dev",
     "tailwind-watch": "npx tailwindcss -i ./src/assets/tailwind.css -o ./src/index.css --watch",
     "vite-dev": "vite --host",
