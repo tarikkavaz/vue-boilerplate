@@ -2,6 +2,9 @@
   "name": "vue-boilerplate",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.17.3"
+  }
   "scripts": {
     "dev": "npm-run-all --parallel tailwind-watch vite-dev",
     "tailwind-watch": "npx tailwindcss -i ./src/assets/tailwind.css -o ./src/index.css --watch",
