@@ -8,11 +8,11 @@
         <div class="relative px-4 mx-auto max-w-7xl sm:static sm:px-6 lg:px-8">
           <div class="sm:max-w-lg">
             <h1
-              class="text-4xl font-extrabold tracking-tight text-gray-900 font sm:text-6xl"
+              class="text-4xl font-extrabold tracking-tight text-gray-900 font-default font sm:text-6xl"
             >
               {{ $t("home.hello") }}
             </h1>
-            <p class="mt-4 text-xl text-gray-500">
+            <p class="mt-4 text-3xl text-gray-500 font-handwriting">
               Vue3 + Vite + Vue Language Router + Tailwind CSS 3
             </p>
           </div>

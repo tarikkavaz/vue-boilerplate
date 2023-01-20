@@ -22,7 +22,8 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Montserrat:wght@400;500;700&display=swap');
 .fade-enter-active,
 .fade-leave-active {
   transition: opacity 0.1s cubic-bezier(0.52, 0.02, 0.19, 1.02);
