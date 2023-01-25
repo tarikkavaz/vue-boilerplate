@@ -1,5 +1,5 @@
 <template>
-  <Menu />
+  <MegaMenu />
   <div class="container px-4 mx-auto mt-10 md:px-0">
     <router-view v-slot="{ Component }">
       <transition name="fade" mode="out-in">
@@ -10,14 +10,14 @@
 </template>
 
 <script>
-import Menu from "@/components/Menu.vue";
+import MegaMenu from "@/components/MegaMenu.vue";
 export default {
   mounted() {
     this.$store.dispatch("loadProducts");
     this.$store.dispatch("loadUsers");
   },
   components: {
-    Menu,
+    MegaMenu,
   },
 };
 </script>
