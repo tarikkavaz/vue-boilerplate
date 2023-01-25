@@ -1,7 +1,7 @@
 <template>
   <div class="relative z-50">
     <button @click="showMenu = true" v-show="!showMenu">Menu Closed</button>
-    <button @click="showMenu = false" v-show="showMenu">Menu Open</button>
+    <button @click="showMenu = false" v-show="showMenu">Menu Opened</button>
 
     <div v-if="showMenu" class="absolute w-full py-2 bg-white rounded-lg shadow-xl top-full">
       <a class="block px-4 py-2 text-gray-800 hover:bg-indigo-500 hover:text-white" href="#1" @click="showMenu = false">Home</a>
